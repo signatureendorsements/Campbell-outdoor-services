@@ -28,3 +28,11 @@ Business Info:
 Campbell Outdoor Services
 Phone: 407-603-8786
 Slogan: Clean Cars. Beautiful Lawns. Exceptional Curb Appeal.
+
+
+UPDATE:
+The service showcase pictures now use images cropped from the Facebook flyer:
+- mobile-detailing.jpg
+- lawn-care.jpg
+- pressure-washing.jpg
+Everything else on the website was left the same.
